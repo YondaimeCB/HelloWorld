@@ -4,7 +4,7 @@ Hello World
 
 ![]()
 
-![Capture](images\Capture.PNG)
+![Capture](.\images\Capture.PNG)
 
 ```bas
 cls
